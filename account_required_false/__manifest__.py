@@ -2,8 +2,8 @@
 {
     'name': 'Account Required False',       
     'version': '1.0',
-    'summary' : 'remove requirement of fields',
-    'description': """ This module make the two fields property account recievable and payable optional. """,
+    'summary' : 'Remove requirement of accounts in partner view',
+    'description': """ This module make the two fields property account recievable and payable optional in partner view. """,
     'author': "TIT SOLUTIONS", 
     'license': 'AGPL-3',
     'website': 'http://www.sogesi-dz.com',  
