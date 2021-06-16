@@ -11,6 +11,7 @@
         'base',
         'account',
     ],
+    'images': ['images/image.jpg'],
     
     'installable': True,
     'auto_install': False,
